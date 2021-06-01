@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SEMAT_app</string>
+    <string name="project_name">Project name</string>
+    <string name="project_description">Project description</string>
+    <string name="customer">Клиент</string>
+    <string name="opportunity">Возможность</string>
+    <string name="solution">Инженерное решение</string>
+    <string name="requirements">Требования</string>
+    <string name="stakeholders">Стейкхолдеры</string>
+    <string name="software_system">Воплощение системы</string>
+    <string name="work">Работы</string>
+    <string name="endeavor">Предпринятие</string>
+    <string name="team">Команда</string>
+    <string name="way_of_working">Технология</string>
+    <string name="stage_name">Название этапа</string>
+    <string name="stage_number">№</string>
+    <string name="question">Вопрос</string>
+</resources>
